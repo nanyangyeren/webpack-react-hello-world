@@ -4,7 +4,7 @@ class App extends React.Component {
 
 	render(){
 		return(
-			<div><h1>React ToDo App</h1></div>
+			<div><h1>Hello React+Webpack</h1></div>
 			)
 	}
 }
